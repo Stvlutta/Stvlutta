@@ -52,7 +52,7 @@ I'm a passionate developer with a keen interest in open-source projects, web dev
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stvlutta&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Stvlutta&theme=tokyonight)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Stvlutta&theme=tokyonight" alt="GitHub Streak" />
 
 </div>
 
@@ -71,4 +71,3 @@ I'm a passionate developer with a keen interest in open-source projects, web dev
 ![Visitors](https://komarev.com/ghpvc/?username=Stvlutta&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
-
