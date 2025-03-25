@@ -1,10 +1,10 @@
 <div align="center">
 
-# ✨ Hello! I'm Stvlutta ✨
 
 [![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://stvlutta.dev)
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Stvlutta)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/steve_lutta)
 
 </div>
 
@@ -52,7 +52,7 @@ I'm a passionate developer with a keen interest in open-source projects, web dev
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stvlutta&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Stvlutta&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Stvlutta&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
@@ -60,6 +60,7 @@ I'm a passionate developer with a keen interest in open-source projects, web dev
 
 - **Email**: code@stvlutta.dev
 - **Website**: [stvlutta.dev](https://stvlutta.dev)
+- **Instagram**: [@steve_lutta](https://instagram.com/steve_lutta)
 
 ---
 
@@ -67,6 +68,7 @@ I'm a passionate developer with a keen interest in open-source projects, web dev
 
 ### Thanks for visiting my profile! ✨
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Stvlutta.Stvlutta)
+![Visitors](https://komarev.com/ghpvc/?username=Stvlutta&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
+
